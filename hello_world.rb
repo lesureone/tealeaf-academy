@@ -1,2 +1,2 @@
-# Hello World Example
+# Hello World Ruby Example
 puts 'Hello, world'
